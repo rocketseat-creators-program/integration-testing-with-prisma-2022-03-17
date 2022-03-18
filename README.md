@@ -1,22 +1,41 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Título
+# Prisma ORM: Testes de integração
 
-Introdução ao seu projeto. Apresentado por [Seu nome][1].
+## Quem sou eu?
 
-> __Atenção__: Este é o projeto <template/completo>, se você está procurando o projeto de <completo/template>, vá para [este repositório](https://github.com/rocketseat-experts-club/<seu projeto aqui>)
+Fala galera, belezinha ? Para quem não me conhece meu nome é Cleber, atualmente sou Tech Lead na BossaBox. E hoje estou vindo aqui para falar sobre como podemos criar um suíte de testes de integração em cima do PrismaORM, este ORM que vem sendo tão bem recebido pela comunidade.
 
-## Instalação
+## Para quem é indicado essa aula ?
 
-1. Use este template
-2. Edite o README.md
-3. Adicione seus arquivos
+Essa aula é indicada para quem quer começar a utilizar ou já utiliza o Prisma em seus projetos.
+
+Caso após essa aula você tenha alguma dúvida ou queira bater um papo comigo, basta me chamar lá no meu instagram @clebercarvalho.dev ou na comunidade do experts club. Beleza ?
+
+## Quais são os requisitos para a aula:
+
+- Ter docker e docker-compose instalados
+- NodeJS na versão 16 ou superior
+- E um editor de texto de sua preferência
+
+## Scripts
+
+1. Instalando pacotes:
+
+```
+npm install
+```
+
+2. Inicializando o servidor
+
+```
+npm run dev
+```
 
 ## Expert
 
-| [<img src="https://github.com/<seu handle>.png" width="75px;"/>][1] |
-| :-: |
-|[Creator][1]|
+| [<img src="https://avatars.githubusercontent.com/u/16427289" width="75px;"/>][1] |
+| :------------------------------------------------------------------------------: |
+|                               [Cleber Carvalho][1]                               |
 
-
-[1]: https://seusite.com.br
+[1]: https://www.instagram.com/clebercarvalho.dev
